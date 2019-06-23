@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: bday.png
-thumbnail: bday-thumbnail.png
+thumbnail: 
 alt: image-alt
 description: Its time to spend some time to celebrate you! Make your birthday a great day with some sweet tunes, birthday games, and entertainment all day!
 
