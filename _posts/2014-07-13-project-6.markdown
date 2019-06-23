@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: prom.png
-thumbnail: prom-thumbnail.png
+thumbnail: 
 alt: image-alt
 description: High school dances can be tough! With all the new fades and hip new music, it can be hard to please a younger generation. Don't worry, we'll take care of it with out monthly updated top charts from around the city.
 
