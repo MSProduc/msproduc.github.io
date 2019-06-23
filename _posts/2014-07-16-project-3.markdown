@@ -4,8 +4,8 @@ subtitle: Bringing the play to work!
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: corporate.png
+thumbnail: corporate-thumbnail.png
 alt: image-alt
 description: Take your next corporate event to the next level! On top of having music entertainment, we have team building activites, award shoutouts, and inspirational music with with leadership speeches!
 
