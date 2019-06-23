@@ -4,8 +4,8 @@ subtitle: From start to finish
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: wedding.png
-thumbnail: 
+img: wedding-scale.png
+thumbnail: wedding-scale-thumbnail.png
 alt: image-alt
 description: You wedding means the world. We want to make sure it happens, without you stressing! Let us help you every step of the way to ensure perfection on the best day of your life.
 
