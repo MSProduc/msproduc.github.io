@@ -4,8 +4,8 @@ subtitle: Rain or shine, inside or out
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: graduation.png
-thumbnail: graduation-thumbnail.png
+img: graduationcrop.png
+thumbnail: graduationcrop-thumbnail.png
 alt: image-alt
 description: Make your graduation party unforgettable! With line dances, shoutouts, games, and more! Let the party happen without the hassle! Let us make the best of your celebration!
 
