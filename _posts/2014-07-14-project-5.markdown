@@ -4,8 +4,8 @@ subtitle: Transition to Adulthood
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: quince.png
-thumbnail:
+img: quince-scale.png
+thumbnail: quince-scale-thumbnail.png
 alt: image-alt
 description: Becoming recognized as an adult is a once in a lifetime experience. Make it the most memorable event for you and your atendees. 
 
