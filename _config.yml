@@ -9,7 +9,10 @@ description: "Providing professional sound, music, and lights for all your event
 
 # Team names, titles and social links
 people:
-
+- name: 
+  pic: 
+  position: 
+  
 - name: Cody Hernandez
   pic: DJ
   position: Professional DJ - Owner
@@ -23,14 +26,12 @@ social:
   - title: instagram
     url: http://instagram.com/mindspeak.production/
   - title: pinterest 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://pinterest.org/mindspeak.production/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: Pueblo, CO 81005
 
 # Build settings
 markdown: kramdown
