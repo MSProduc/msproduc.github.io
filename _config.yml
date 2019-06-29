@@ -11,7 +11,12 @@ description: "Providing professional sound, music, and lights for all your event
 - name: Cody Hernandez
   pic: DJ
   position: Professional DJ - Owner
-
+- name: Cody Hernandez
+  pic: DJ
+  position: Professional DJ - Owner  
+- name: Cody Hernandez
+  pic: DJ
+  position: Professional DJ - Owner
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
